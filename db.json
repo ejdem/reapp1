@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "avatar",
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "title": "harry potter",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "title": "house of cards",
+      "rating": 5
+    }
+  ]
+}
